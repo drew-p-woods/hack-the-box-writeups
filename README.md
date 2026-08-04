@@ -21,6 +21,7 @@ Starting-Point/
 └── Tier-0/
     ├── Meow/
     ├── Fawn/
+    ├── Dancing/
     └── ...
 ```
 
@@ -38,7 +39,8 @@ Each machine contains a `README.md` documenting:
 ### Starting Point - Tier 0
 
 - [x] Meow
-- [ ] Fawn
+- [x] Fawn
+- [x] Dancing
 
 ---
 
