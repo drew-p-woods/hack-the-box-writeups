@@ -3,9 +3,7 @@
 ### Overview
 
 Platform: Linux
-
 Difficulty: Very Easy
-
 Completed: August 4, 2026
 
 ---
