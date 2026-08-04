@@ -4,6 +4,8 @@
 
 Fawn is a beginner HTB machine focused on FTP enumeration. The goal is to identify the FTP service, determine whether anonymous access is enabled, and retrieve the flag.
 
+---
+
 ### Objective
 
 - Identify the exposed service using Nmap.
@@ -11,6 +13,8 @@ Fawn is a beginner HTB machine focused on FTP enumeration. The goal is to identi
 - Determine whether anonymous login is enabled.
 - Retrieve the flag.
 - Complete the HTB Starting Point questions.
+
+---
 
 ### Enumeration
 
@@ -37,6 +41,8 @@ Purpose:
 - `-sC` executes default Nmap Scripting Engine (NSE) scripts.
 - `-sV` identifies service versions.
 - Provides additional FTP information such as anonymous login detection.
+
+---
 
 ### Exploitation
 
@@ -77,9 +83,13 @@ Read the downloaded file.
 cat flag.txt
 ```
 
+---
+
 ### Flag
 
 Successfully downloaded `flag.txt` from the FTP server using anonymous authentication.
+
+---
 
 ### What I Learned
 
@@ -89,11 +99,15 @@ Successfully downloaded `flag.txt` from the FTP server using anonymous authentic
 - `get` downloads files from the FTP server.
 - `nmap -sC -sV` is a better starting scan than a basic `nmap`.
 
+---
+
 ### Tools Used
 
 - Kali Linux
 - Nmap
 - FTP Client
+
+---
 
 ### Commands Used
 
