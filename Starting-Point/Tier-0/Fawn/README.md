@@ -2,7 +2,11 @@
 
 ### Overview
 
-Fawn is a beginner HTB machine focused on FTP enumeration. The goal is to identify the FTP service, determine whether anonymous access is enabled, and retrieve the flag.
+Platform: Linux
+
+Difficulty: Very Easy
+
+Completed: August 4, 2026
 
 ---
 
