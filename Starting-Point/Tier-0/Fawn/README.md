@@ -10,11 +10,7 @@
 
 ### Objective
 
-- Identify the exposed service using Nmap.
-- Connect to the FTP server.
-- Determine whether anonymous login is enabled.
-- Retrieve the flag.
-- Complete the HTB Starting Point questions.
+Identify the FTP service, authenticate using anonymous access, and retrieve the flag.
 
 ---
 
