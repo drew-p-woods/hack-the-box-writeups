@@ -2,17 +2,15 @@
 
 ### Overview
 
-Dancing introduces SMB enumeration using smbclient. The machine focuses on discovering and interacting with Windows file shares commonly found in enterprise environments.
+- Platform: Windows
+- Difficulty: Very Easy
+- Completed: August 4, 2026
 
 ---
 
 ### Objective
 
-- Identify the SMB service using Nmap.
-- Enumerate available SMB shares.
-- Connect to an accessible share.
-- Navigate the shared directories.
-- Retrieve the flag.
+Enumerate available SMB shares, access the appropriate share, and retrieve the flag.
 
 ---
 
